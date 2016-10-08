@@ -1,0 +1,24 @@
+{
+  "name": "dictionary",
+  "version": "1.0.0",
+  "description": "command line utility for wordnik",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wordnik"
+  ],
+  "bin": {
+    "dict": "./cli.js"
+  },
+  "author": "vikneshwar",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "clear": "0.0.1",
+    "figlet": "^1.2.0",
+    "request": "^2.75.0",
+    "vorpal": "^1.11.4"
+  }
+}
