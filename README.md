@@ -5,8 +5,9 @@ Steps to install
 
  * git clone https://github.com/vikneshwar/Wordnik-Command-Tool
  * Install dependencies using ```npm install -g```
+ * Or get from npm using ```npm install wordnik-dictionary -g```
  * Now you can open the tool by typing ```dict```
-
+ 
 ### Usage
 
 * Type ```help``` to know list of commands 

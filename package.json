@@ -1,5 +1,5 @@
 {
-  "name": "dictionary",
+  "name": "wordnik-dictionary",
   "version": "1.0.0",
   "description": "command line utility for wordnik",
   "main": "index.js",
