@@ -12,6 +12,10 @@
   "bin": {
     "dict": "./cli.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vikneshwar/Wordnik-Command-Tool.git"
+  },
   "author": "vikneshwar",
   "license": "MIT",
   "dependencies": {

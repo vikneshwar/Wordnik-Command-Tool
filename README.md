@@ -4,6 +4,8 @@ Command Line tool for dictionay tool using Wordnik REST API.
 Steps to install 
 
  * git clone https://github.com/vikneshwar/Wordnik-Command-Tool
+ * Get a API key from wordnik [here](http://developer.wordnik.com/)
+ * Configure your key in config.js 
  * Install dependencies using ```npm install -g```
  * Or get from npm using ```npm install wordnik-dictionary -g```
  * Now you can open the tool by typing ```dict```
